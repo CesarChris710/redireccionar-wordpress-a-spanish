@@ -13,20 +13,10 @@
 
 (function() {
     'use strict';
-
-    // Función para redireccionar URLs
     function redireccionarURL() {
-        // URL actual
         var urlActual = window.location.href;
-
-        // Reemplazar el dominio por "es.wordpress.org"
         var nuevaURL = urlActual.replace(/\/\/[^/]+\/plugins\//, "//es.wordpress.org/plugins/");
-
-        // Redirigir a la nueva URL
         window.location.replace(nuevaURL);
     }
-
-    // Llamar a la función de redireccionamiento cuando se cargue la página
     redireccionarURL();
-
 })();
