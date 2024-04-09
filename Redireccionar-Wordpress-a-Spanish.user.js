@@ -2,6 +2,8 @@
 // @name         Redireccionar URLs de WordPress.org a Español
 // @namespace    redireccionar-wordpress-a-spanish
 // @homepageURL  https://github.com/CesarChris710/redireccionar-wordpress-a-spanish/
+// @downloadURL  https://raw.githubusercontent.com/CesarChris710/redireccionar-wordpress-a-spanish/master/Redireccionar-Wordpress-a-Spanish.user.js
+// @updateURL    https://raw.githubusercontent.com/CesarChris710/redireccionar-wordpress-a-spanish/master/Redireccionar-Wordpress-a-Spanish.user.js
 // @version      1.0
 // @description  Redireccionar URLs de WordPress.org a su versión en español
 // @author       CesarChris710
